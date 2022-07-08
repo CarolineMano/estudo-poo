@@ -26,7 +26,7 @@ o carro. Não permitir que desligue o veículo com (velocidade > 0).
 <p align="center">UML Exercício 01 </p>
 
 
-[Visualizar Código](#)  
+[Visualizar Código](https://github.com/CarolineMano/estudo-poo/tree/master/Exercicio01)  
 
 ---
 
@@ -51,7 +51,7 @@ console.
 4. CalculaPatrimonio(): soma os preços de todos os produtos da loja e retorna este valor como double.
 
 
-[Visualizar Código](#)  
+[Visualizar Código](https://github.com/CarolineMano/estudo-poo/tree/master/Exercicio02)  
 
 ---
 
@@ -73,7 +73,7 @@ atributos Vida e Força.
     - Guerreiro: ( Força * Level ) + numeroRandomico( 0 até 300 ).
 
 
-[Visualizar Código](#)  
+[Visualizar Código](https://github.com/CarolineMano/estudo-poo/tree/master/Exercicio03)  
 
 ---
 
@@ -89,7 +89,7 @@ Leandro | 21
 Paulo | 17
 Jessica | 18
 
-[Visualizar código](#)
+[Visualizar código](https://github.com/CarolineMano/estudo-poo/tree/master/Exercicio04)
 
 ---
 
@@ -102,7 +102,7 @@ exclusão. (Não reescreva o código do item 01).
 **Atenção! Como o exercício 05 é uma continuação do exercício 04, não há arquivo separado. A implementação se encontra dentro do exercício 04**
 
 
-[Visualizar código](#)
+[Visualizar código](https://github.com/CarolineMano/estudo-poo/tree/master/Exercicio04)
 
 ---
 
@@ -113,7 +113,7 @@ Consulte se o objeto Jessica existe na lista e exiba a sua idade.
 
 **Atenção! Como o exercício 06 é uma continuação do exercício 04, não há arquivo separado. A implementação se encontra dentro do exercício 04**
 
-[Visualizar código](#)
+[Visualizar código](https://github.com/CarolineMano/estudo-poo/tree/master/Exercicio04)
 
 ---
 
@@ -135,4 +135,4 @@ Supervisor e Vendedor e adicione no mínimo um valor para cada atributo e
 imprima cada funcionário (Gerente, Supervisor e Vendedor) com suas devidas
 bonificações.
 
-[Visualizar código](#)
+[Visualizar código](https://github.com/CarolineMano/estudo-poo/tree/master/Exercicio07)
