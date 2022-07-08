@@ -1,0 +1,7 @@
+Debug/
+bin/
+obj/
+/build/
+*.dll
+*.json
+*.editorconfig
